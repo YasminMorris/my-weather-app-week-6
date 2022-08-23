@@ -1,0 +1,72 @@
+h1 {
+  text-align: center;
+  padding: 20px;
+  border: solid 1px #333;
+  width: 80%;
+  margin: 30px auto;
+  color: blue;
+}
+
+h4 {
+  text-transform: capitalize;
+  color: yellow;
+}
+
+main {
+  border: solid 1px #333;
+  width: 80%;
+  display: block;
+  margin: 10px auto;
+  padding-bottom: 20px;
+}
+
+.search-box {
+  border: solid 1px #333;
+  width: 80%;
+  display: block;
+  margin: 10px auto;
+}
+
+.current-location {
+  width: 60%;
+  display: block;
+  margin: 10px auto;
+}
+
+footer {
+  text-align: center;
+  font-size: small;
+}
+
+.search-box {
+  width: 80%;
+  display: block;
+  margin: 0 auto;
+  border: solid 1px #333;
+}
+
+.container {
+  margin-top: 20px;
+}
+
+.weather-icon {
+  color: #e5fd5e;
+  font-size: 80px;
+  text-align: center;
+}
+
+#search-button {
+  display: block;
+  margin: 1% auto;
+  border: solid 1px #333;
+}
+
+.current,
+.col-6,
+.col-sm {
+  text-align: center;
+}
+
+.col-4 {
+  margin-left: 10%;
+}
